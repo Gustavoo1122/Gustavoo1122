@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Cursando 2º semestre de ADS<br>🔎 Estou a procura de estágio em TI<br>
+👨‍💻 Cursando 3º semestre de ADS<br>🔎 Estou a procura de estágio em TI<br>
 
 
 ## 🌐 Socials:
