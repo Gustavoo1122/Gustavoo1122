@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👽 About Me:
 🎓 Cursando 4º semestre de ADS<br>🔎 Estagiário de Service Desk<br>👨‍💻 Desenvolvedor Back-end
 
 
