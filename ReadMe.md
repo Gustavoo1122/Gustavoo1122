@@ -1,13 +1,14 @@
-# 👽 Sobre mim:
+# Sobre mim:
 
 🎓 Cursando 4º semestre de ADS  
 🔎 Estagiário de Service Desk  
-👨‍💻 Desenvolvedor Back-end
-## Contatos
+👨‍💻 Desenvolvedor Back-end  
+## 📱 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-010409?style=for-the-badge&logo=linkedin&logoColor=1572B6)](https://www.linkedin.com/in/gustavope883)
 [![Instagram](https://img.shields.io/badge/-Instagram-010409?style=for-the-badge&logo=instagram&logoColor=b30024)](https://www.instagram.com/gusta.rats/)
-[![Gmail](https://img.shields.io/badge/Gmail-010409?style=for-the-badge&logo=gmail&logoColor=E44C50)](mailto:gustavope883@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-010409?style=for-the-badge&logo=gmail&logoColor=E44C50)](mailto:gustavope883@gmail.com)  
+
 ## 🛠 Habilidades
 
 ![Java](https://img.shields.io/badge/java-010409.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
