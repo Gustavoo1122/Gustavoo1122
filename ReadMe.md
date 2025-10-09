@@ -1,7 +1,7 @@
 # Sobre mim:
 
-🎓 Cursando 4º semestre de ADS  
-🔎 Estagiário de Service Desk  
+🎓 Formado em ADS  
+🔎 Analista de Suporte Pleno (N1) | SAP S/4HANA
 👨‍💻 Desenvolvedor Back-end  
 ## 📱 Contatos
 
